@@ -31,7 +31,7 @@
 ### 🔧 Stack Tecnológico:
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40" title="Node.js"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" title="HTML5"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" title="CSS3"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="40" height="40" title="Sass"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" title="Git"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40" title="GitHub"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" title="Visual Studio Code"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40" title="Docker"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" width="40" height="40" title="FastAPI"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40" height="40" title="Vue.js"/>
- 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" title="React"/> 
 ### 🚀 Estoy aprendiendo:
 - **Java** - Programación orientada a objetos avanzada
 - **Python** - Desarrollo backend, manejo de excepciones y archivos
@@ -45,12 +45,14 @@
 - **Visual Studio Code** - Mi IDE principal
 - **Docker** - Contenedores y entornos de desarrollo
 - **Vue.js** - Framework progresivo de JavaScript para interfaces web
+- **React** - Librería para interfaces de usuario, hooks y Vite
+  
 ### 🎓 Formación académica:
  
 | Semestre | Asignaturas destacadas |
 |----------|------------------------|
-| 1° y 2° | Python, Java, JavaScript, HTML/CSS, Git/GitHub, BD relacionales |
-| 3° (actual) | Python avanzado · Java POO · JavaScript DOM · PostgreSQL · MySQL · Sass/SCSS · English II |
+| 1° y 2° | Python, Java, JavaScript, HTML/CSS, Git/GitHub, BD relacionales -  English I |
+| 3° | Python avanzado · Java POO · JavaScript DOM · PostgreSQL · MySQL · Sass/SCSS · English II |
  
 > Tecnicatura Universitaria en Programación — UTN San Rafael
  
