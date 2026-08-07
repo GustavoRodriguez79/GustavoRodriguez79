@@ -64,7 +64,7 @@
 |----------|-------------|-------|
 | [Portafolio Web](https://gustavo-rodriguez-portafolio-vuejs.netlify.app/) | Portafolio personal responsive con secciones de proyectos y contacto | HTML · CSS · JavaScript · Vue.js
 | [Gestor de Gastos](https://github.com/GustavoRodriguez79/gestor-gastos) | Gestor de gastos personales — finalizado | Python · FastAPI · PostgreSQL · HTML/CSS/JS
-| [Finanzas Dashboard](https://github.com/GustavoRodriguez79/finanzas-dashboard) | Dashboard financiero fullstack con autenticación — en progreso 🚧 | React (Vite) · FastAPI · PostgreSQL · JWT · Google OAuth
+| [Finanzas Dashboard](https://finanzas-dashboard-gustavo.netlify.app) | Dashboard financiero fullstack con autenticación JWT y Google OAuth — deployado en producción ✅ | React (Vite) · FastAPI · PostgreSQL · JWT · Google OAuth
  
 #### 👥 Proyectos grupales — ByteNine · UTN San Rafael
  
