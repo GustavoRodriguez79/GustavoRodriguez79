@@ -51,8 +51,8 @@
  
 | Semestre | Asignaturas destacadas |
 |----------|------------------------|
-| 1° y 2° | Python, Java, JavaScript, HTML/CSS, Git/GitHub, BD relacionales -  English I |
-| 3° | Python avanzado · Java POO · JavaScript DOM · PostgreSQL · MySQL · Sass/SCSS · English II |
+| 1° y 2° | Python, Java, JavaScript, HTML/CSS, Git/GitHub, BD relacionales|
+| 3° | Python avanzado · Java POO · JavaScript DOM · PostgreSQL · MySQL · Sass/SCSS|
  
 > Tecnicatura Universitaria en Programación — UTN San Rafael
  
