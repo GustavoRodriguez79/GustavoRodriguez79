@@ -75,7 +75,7 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 ![GitHub Streak](https://streak-stats.demolab.com?user=GustavoRodriguez79&theme=radical&hide_border=true)
 
 ### 📈 Actividad:
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=GustavoRodriguez79&theme=react-dark&cache_seconds=1)
+![Contribuciones](https://ghchart.rshah.org/22d3ee/GustavoRodriguez79)
 
 ### 🚀 Lenguajes
 ![Repos per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GustavoRodriguez79&theme=github_dark&cache_seconds=1)
