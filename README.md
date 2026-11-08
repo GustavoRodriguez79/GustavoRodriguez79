@@ -48,7 +48,8 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 | [Finanzas Dashboard](https://finanzas-dashboard-gustavo.netlify.app) · [código](https://github.com/GustavoRodriguez79/finanzas-dashboard) | Dashboard financiero fullstack con autenticación JWT y Google OAuth, en producción | React (Vite) · FastAPI · PostgreSQL |
 | [Gestor de Gastos](https://github.com/GustavoRodriguez79/gestor-gastos) | Gestor de gastos personales | Python · FastAPI · PostgreSQL · JS |
 | [Tienda de Libros](https://github.com/GustavoRodriguez79/tienda-libros) | Gestión de una tienda de libros | Java · Spring Boot · Maven · IntelliJ |
-| [PERN Tasks](https://github.com/GustavoRodriguez79/pern-tasks) *(en progreso)* | Práctica del stack PERN con API REST | PostgreSQL · Express · React · Node.js |
+| [PERN Tasks](https://github.com/GustavoRodriguez79/pern-tasks) | Gestor de tareas full stack: registro e inicio de sesión con JWT en cookie httpOnly, CRUD de tareas por usuario y validación con Zod | PostgreSQL · Express · React (Vite) · Node.js · Tailwind CSS |
+| [Planificador de Tareas](https://github.com/GustavoRodriguez79/planificador-tareas) | Aplicación web para planificar tareas: filtros por estado y prioridad, indicadores y tema claro/oscuro | Java 21 · Spring Boot · MySQL · JavaScript |
 
 ### 👥 Grupales — UTN San Rafael
 
@@ -58,11 +59,12 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 | [Actividades 3° Semestre](https://github.com/HotCode2025/ByteNine-Tercer-Semestre) | Actividades y ejercicios grupales del tercer semestre | Python · Java · PostgreSQL |
 | [PI 3° Semestre](https://github.com/HotCode2025/PI_TercerSemestre-ByteNine) | Sistema de gestión médica (módulo Historia Clínica a mi cargo) | Python · PostgreSQL · CustomTkinter |
 | [PI 2° Semestre](https://github.com/HotCode2025/PI_SegundoSemestre-ByteNine) | Proyecto integrador del segundo semestre | Python · MySQL · HTML/CSS |
-| [Qwerty123 — 4° Semestre](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre) | Actividades grupales: capa de datos en Python, sistema de estudiantes y tienda de libros en Java, stack PERN | Python · Java · Spring Boot · PostgreSQL · MySQL · Node/React |
-| E-commerce de repostería artesanal *(PI 4° semestre)* | Tienda online con autenticación, base de datos, carrito y pagos con Mercado Pago. Me encargué del backend | Node.js · Express · Mercado Pago · JS |
+| [Qwerty123 — 4° Semestre](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre) | Actividades grupales: capa de datos en Python, sistema de estudiantes, tienda de libros y planificador de tareas en Java, stack PERN | Python · Java · Spring Boot · PostgreSQL · MySQL · Node/React |
+| [Golden Point](https://github.com/HotCode2025/Qwerty123-ProyectoIntegrador-Ecommerce-CuartoSemestre) · [demo](https://golden-point-kappa.vercel.app/) *(Proyecto Final Integrador)* | E-commerce de equipamiento deportivo (fútbol, básquet y pádel) con camisetas personalizables, carrito y pagos con Mercado Pago. Equipo de 10; a mi cargo, el frontend del catálogo | React 19 · Vite · Java 21 · Spring Boot · MySQL |
+| [Planificador de Tareas](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/tree/respaldo-main/Java/Clase10-12/planificador_tareas) *(Java, clases 10 a 12)* | API REST por capas con tests (JUnit, Mockito, MockMvc), documentación Swagger y frontend responsive | Java 21 · Spring Boot · MySQL · JavaScript |
 | GastoSmart *(MVP)* | App de control de gastos personales: Canvas, MER y alertas automatizadas con n8n | PostgreSQL · n8n |
 
-<!-- TODO: agregar links al repo y al deploy del e-commerce y de GastoSmart cuando estén publicados -->
+<!-- TODO: agregar link al repo de GastoSmart cuando esté publicado -->
 
 ---
 
