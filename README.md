@@ -49,7 +49,7 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 | [Gestor de Gastos](https://github.com/GustavoRodriguez79/gestor-gastos) | Gestor de gastos personales | Python · FastAPI · PostgreSQL · JS |
 | [Tienda de Libros](https://github.com/GustavoRodriguez79/tienda-libros) | Gestión de una tienda de libros | Java · Spring Boot · Maven · IntelliJ |
 | [PERN Tasks](https://github.com/GustavoRodriguez79/pern-tasks) | Gestor de tareas full stack: registro e inicio de sesión con JWT en cookie httpOnly, CRUD de tareas por usuario y validación con Zod | PostgreSQL · Express · React (Vite) · Node.js · Tailwind CSS |
-| [Planificador de Tareas](https://github.com/GustavoRodriguez79/planificador-tareas) | Aplicación web para planificar tareas: filtros por estado y prioridad, indicadores y tema claro/oscuro | Java 21 · Spring Boot · MySQL · JavaScript |
+
 
 ### 👥 Grupales — UTN San Rafael
 
