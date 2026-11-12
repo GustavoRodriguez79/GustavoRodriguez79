@@ -94,12 +94,15 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 
 ## 📫 Conectemos
 
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-00C853?style=flat-square&logo=netlify&logoColor=white)](https://gustavo-rodriguez-portafolio-vuejs.netlify.app/)
-[![GitHub](https://img.shields.io/badge/GitHub-GustavoRodriguez79-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/GustavoRodriguez79)
-[![Email](https://img.shields.io/badge/Email-garodrifornes79@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:garodrifornes79@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Gustavo_Ariel_Rodriguez_Fornes-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/)
-[![Instagram](https://img.shields.io/badge/Instagram-@garodrifornes79-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/garodrifornes79/)
-[![Twitter](https://img.shields.io/badge/Twitter-@GustavoAri53022-1DA1F2?style=flat-square&logo=x&logoColor=white)](https://x.com/GustavoAri53022)
+<p align="center">
+  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-Web-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" /></a>
+  <a href="https://github.com/GustavoRodriguez79"><img src="https://img.shields.io/badge/GitHub-GustavoRodriguez79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="mailto:garodrifornes79@gmail.com"><img src="https://img.shields.io/badge/Email-garodrifornes79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/"><img src="https://img.shields.io/badge/LinkedIn-Gustavo_Ariel_Rodriguez_Fornes-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.instagram.com/garodrifornes79/"><img src="https://img.shields.io/badge/Instagram-@garodrifornes79-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
+  <a href="https://www.threads.com/@garodrifornes79"><img src="https://img.shields.io/badge/Threads-@garodrifornes79-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://x.com/GustavoAri53022"><img src="https://img.shields.io/badge/X-@GustavoAri53022-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+</p>
 
 ---
 
