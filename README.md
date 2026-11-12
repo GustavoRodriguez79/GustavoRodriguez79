@@ -95,17 +95,29 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 ## 📫 Conectemos
 
 <p align="left">
-  <a href="mailto:garodrifornes79@gmail.com" title="Email"><img src="docs/iconos/email.svg" alt="Email" width="48" height="48" /></a>
+  <a href="mailto:garodrifornes79@gmail.com" title="Email">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/email.svg" alt="Email" width="48" height="48" />
+  </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/" title="LinkedIn"><img src="docs/iconos/linkedin.svg" alt="LinkedIn" width="48" height="48" /></a>
+  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/linkedin.svg" alt="LinkedIn" width="48" height="48" />
+  </a>
   &nbsp;
-  <a href="https://github.com/GustavoRodriguez79" title="GitHub"><img src="docs/iconos/github.svg" alt="GitHub" width="48" height="48" /></a>
+  <a href="https://github.com/GustavoRodriguez79" title="GitHub">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/github.svg" alt="GitHub" width="48" height="48" />
+  </a>
   &nbsp;
-  <a href="https://instagram.com/garodrifornes79" title="Instagram"><img src="docs/iconos/instagram.svg" alt="Instagram" width="48" height="48" /></a>
+  <a href="https://instagram.com/garodrifornes79" title="Instagram">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/instagram.svg" alt="Instagram" width="48" height="48" />
+  </a>
   &nbsp;
-  <a href="https://www.threads.com/@garodrifornes79" title="Threads"><img src="docs/iconos/threads.svg" alt="Threads" width="48" height="48" /></a>
+  <a href="https://www.threads.com/@garodrifornes79" title="Threads">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/threads.svg" alt="Threads" width="48" height="48" />
+  </a>
   &nbsp;
-  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/" title="Portafolio online"><img src="docs/iconos/portafolio.svg" alt="Portafolio online" width="48" height="48" /></a>
+  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/" title="Portafolio online">
+    <img src="https://raw.githubusercontent.com/GustavoRodriguez79/Portafolio-Vuejs/main/docs/iconos/portafolio.svg" alt="Portafolio online" width="48" height="48" />
+  </a>
 </p>
 ---
 
