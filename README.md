@@ -62,8 +62,7 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 | [Qwerty123 — 4° Semestre](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre) | Actividades grupales: capa de datos en Python, sistema de estudiantes, tienda de libros y planificador de tareas en Java, stack PERN | Python · Java · Spring Boot · PostgreSQL · MySQL · Node/React |
 | [Golden Point](https://github.com/HotCode2025/Qwerty123-ProyectoIntegrador-Ecommerce-CuartoSemestre) · [demo](https://golden-point-kappa.vercel.app/) *(Proyecto Final Integrador)* | E-commerce de equipamiento deportivo (fútbol, básquet y pádel) con camisetas personalizables, carrito y pagos con Mercado Pago. Equipo de 10; a mi cargo, el frontend del catálogo | React 19 · Vite · Java 21 · Spring Boot · MySQL |
 | [Planificador de Tareas](https://github.com/HotCode2025/Qwerty123-Cuarto-Semestre/tree/respaldo-main/Java/Clase10-12/planificador_tareas) *(Java, clases 10 a 12)* | API REST por capas con tests (JUnit, Mockito, MockMvc), documentación Swagger y frontend responsive | Java 21 · Spring Boot · MySQL · JavaScript |
-| GastoSmart *(MVP)* | App de control de gastos personales: Canvas, MER y alertas automatizadas con n8n | PostgreSQL · n8n |
-
+| GastoSmart · [demo](https://gastosmart.tinidrop.app/) *(MVP, Metodología de Sistemas II)* | App de control de gastos personales con movimientos, presupuestos, metas de ahorro y alertas. Prototipo navegable; documentación con Canvas y MER, y alertas automatizadas con n8n | JavaScript · PostgreSQL · n8n |
 <!-- TODO: agregar link al repo de GastoSmart cuando esté publicado -->
 
 ---
@@ -104,4 +103,4 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 
 ---
 
-⭐ *"Good code, like wisdom, keeps it simple. There's always more to learn."*
+⭐ *"Cambié de rumbo, aprendí desde cero y ahora busco mi primera oportunidad para seguir construyendo."* 🚀
