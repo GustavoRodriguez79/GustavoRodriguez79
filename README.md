@@ -94,30 +94,18 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 
 ## 📫 Conectemos
 
-<p align="center">
-  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/" title="Portafolio online">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="Portafolio" />
-  </a>
+<p align="left">
+  <a href="mailto:garodrifornes79@gmail.com" title="Email"><img src="docs/iconos/email.svg" alt="Email" width="48" height="48" /></a>
   &nbsp;
-  <a href="https://github.com/GustavoRodriguez79" title="GitHub">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
-  </a>
+  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/" title="LinkedIn"><img src="docs/iconos/linkedin.svg" alt="LinkedIn" width="48" height="48" /></a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/" title="LinkedIn">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
-  </a>
+  <a href="https://github.com/GustavoRodriguez79" title="GitHub"><img src="docs/iconos/github.svg" alt="GitHub" width="48" height="48" /></a>
   &nbsp;
-  <a href="mailto:garodrifornes79@gmail.com" title="Email">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Email" />
-  </a>
+  <a href="https://instagram.com/garodrifornes79" title="Instagram"><img src="docs/iconos/instagram.svg" alt="Instagram" width="48" height="48" /></a>
   &nbsp;
-  <a href="https://www.instagram.com/garodrifornes79/" title="Instagram">
-    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" />
-  </a>
+  <a href="https://www.threads.com/@garodrifornes79" title="Threads"><img src="docs/iconos/threads.svg" alt="Threads" width="48" height="48" /></a>
   &nbsp;
-  <a href="https://www.threads.com/@garodrifornes79" title="Threads">
-    <img src="https://img.icons8.com/ios-filled/48/threads.png" width="48" height="48" alt="Threads" />
-  </a>
+  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/" title="Portafolio online"><img src="docs/iconos/portafolio.svg" alt="Portafolio online" width="48" height="48" /></a>
 </p>
 ---
 
