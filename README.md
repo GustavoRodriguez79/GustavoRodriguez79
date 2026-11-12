@@ -95,12 +95,29 @@ Título: *Técnico Universitario en Programación* · 2 años (4 cuatrimestres) 
 ## 📫 Conectemos
 
 <p align="center">
-  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/"><img src="https://img.shields.io/badge/Portafolio-Web-00C853?style=for-the-badge&logo=netlify&logoColor=white" alt="Portafolio" /></a>
-  <a href="https://github.com/GustavoRodriguez79"><img src="https://img.shields.io/badge/GitHub-GustavoRodriguez79-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="mailto:garodrifornes79@gmail.com"><img src="https://img.shields.io/badge/Email-garodrifornes79@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/"><img src="https://img.shields.io/badge/LinkedIn-Gustavo_Ariel_Rodriguez_Fornes-0077B5?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkxpbmtlZEluPC90aXRsZT48cGF0aCBkPSJNMjAuNDQ3IDIwLjQ1MmgtMy41NTR2LTUuNTY5YzAtMS4zMjgtLjAyNy0zLjAzNy0xLjg1Mi0zLjAzNy0xLjg1MyAwLTIuMTM2IDEuNDQ1LTIuMTM2IDIuOTM5djUuNjY3SDkuMzUxVjloMy40MTR2MS41NjFoLjA0NmMuNDc3LS45IDEuNjM3LTEuODUgMy4zNy0xLjg1IDMuNjAxIDAgNC4yNjcgMi4zNyA0LjI2NyA1LjQ1NXY2LjI4NnpNNS4zMzcgNy40MzNjLTEuMTQ0IDAtMi4wNjMtLjkyNi0yLjA2My0yLjA2NSAwLTEuMTM4LjkyLTIuMDYzIDIuMDYzLTIuMDYzIDEuMTQgMCAyLjA2NC45MjUgMi4wNjQgMi4wNjMgMCAxLjEzOS0uOTI1IDIuMDY1LTIuMDY0IDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjIyIDBoLjAwM3oiLz48L3N2Zz4=" alt="LinkedIn" /></a>
-  <a href="https://www.instagram.com/garodrifornes79/"><img src="https://img.shields.io/badge/Instagram-@garodrifornes79-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
-  <a href="https://www.threads.com/@garodrifornes79"><img src="https://img.shields.io/badge/Threads-@garodrifornes79-000000?style=for-the-badge&logo=threads&logoColor=white" alt="Threads" /></a>
+  <a href="https://gustavo-rodriguez-portafolio-vuejs.netlify.app/" title="Portafolio online">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" width="48" height="48" alt="Portafolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/GustavoRodriguez79" title="GitHub">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/gustavo-ariel-rodr%C3%ADguez-fornes-36a899370/" title="LinkedIn">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="48" height="48" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:garodrifornes79@gmail.com" title="Email">
+    <img src="https://img.icons8.com/color/48/gmail-new.png" width="48" height="48" alt="Email" />
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/garodrifornes79/" title="Instagram">
+    <img src="https://img.icons8.com/fluency/48/instagram-new.png" width="48" height="48" alt="Instagram" />
+  </a>
+  &nbsp;
+  <a href="https://www.threads.com/@garodrifornes79" title="Threads">
+    <img src="https://img.icons8.com/ios-filled/48/threads.png" width="48" height="48" alt="Threads" />
+  </a>
 </p>
 ---
 
